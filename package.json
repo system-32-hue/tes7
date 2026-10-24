@@ -1,0 +1,12 @@
+{
+  "name": "tes7-roblox-api",
+  "version": "1.0.0",
+  "description": "Roblox API demo served from a Node.js web app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
